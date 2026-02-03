@@ -16,3 +16,4 @@ streamlit
 
 # Data Diagnostics (Optional but used in Task 2)
 missingno
+altair<5
