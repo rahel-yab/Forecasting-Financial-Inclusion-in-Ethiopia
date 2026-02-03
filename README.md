@@ -4,7 +4,7 @@ This repository contains the data enrichment process and Exploratory Data Analys
 
 ---
 
-## 📊 Task 1: Data Exploration and Enrichment
+## 📊 Data Exploration and Enrichment
 
 ### Objective
 To transform the sparse starter dataset into a high-fidelity unified schema by adding 2024-2025 observations, regulatory events, and impact links discovered through external research.
@@ -24,7 +24,7 @@ To transform the sparse starter dataset into a high-fidelity unified schema by a
 
 ---
 
-## 🔍 Task 2: Exploratory Data Analysis (EDA)
+## 🔍 Exploratory Data Analysis (EDA)
 
 ### Key Insights
 1.  **The Multi-Homing Paradox:** While mobile money registrations exploded (100M+ accounts), formal account ownership grew by a smaller margin. This indicates that existing bank users are "multi-homing" (opening mobile wallets) rather than the unbanked entering the system for the first time.
