@@ -1,3 +1,18 @@
+# Core Data Handling
 pandas
 numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning & Forecasting
+scikit-learn
+xgboost
+
+# Dashboard & Deployment
+streamlit
+
+# Data Diagnostics (Optional but used in Task 2)
 missingno
